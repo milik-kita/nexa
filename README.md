@@ -1,5 +1,3 @@
-
-````markdown
 # Nexa PHP MVC Framework
 
 Welcome to **Nexa**, a lightweight and clean MVC framework for building PHP applications. This project includes tools to initialize the framework, serve it locally, handle database migrations, and generate components.
