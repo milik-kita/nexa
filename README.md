@@ -122,5 +122,3 @@ Contributions are welcome! Fork the repo and create a pull request.
 ---
 
 Made with ❤️ by [Kita](https://github.com/milik-kita)
-
-```
