@@ -2,7 +2,7 @@
 // config/database.php
 return [
     'host' => 'localhost',
-    'name' => 'db_bengkel',
+    'name' => 'db_nexa',
     'user' => 'root',
     'pass' => '',
     'charset' => 'utf8mb4',

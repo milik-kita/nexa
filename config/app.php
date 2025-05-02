@@ -1,6 +1,6 @@
 <?php
 return [
-    'name' => 'Bengkel Kita',
+    'name' => 'Nexa',
     'debug' => true,
     'url' => 'http://localhost',
     'timezone' => 'UTC',

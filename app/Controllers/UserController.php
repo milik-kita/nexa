@@ -2,7 +2,7 @@
 namespace App\Controllers;
 
 use App\Core\Controller;
-use App\Models\User;
+use App\Modles\User;
 
 class UserController extends Controller {
     private $userModel;
